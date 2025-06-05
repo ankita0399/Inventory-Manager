@@ -1,0 +1,154 @@
+{
+  "inventory": [
+    {
+      "code": "TSHIRT001",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 25,
+          "price": 19.99
+        },
+        {
+          "size": "M",
+          "quantity": 15,
+          "price": 19.99
+        },
+        {
+          "size": "L",
+          "quantity": 20,
+          "price": 19.99
+        },
+        {
+          "size": "XL",
+          "quantity": 15,
+          "price": 24.99
+        }
+      ]
+    },
+    {
+      "code": "JEANS002",
+      "sizes": [
+        {
+          "size": "28",
+          "quantity": 10,
+          "price": 49.99
+        },
+        {
+          "size": "30",
+          "quantity": 15,
+          "price": 49.99
+        },
+        {
+          "size": "32",
+          "quantity": 10,
+          "price": 45.99
+        },
+        {
+          "size": "34",
+          "quantity": 12,
+          "price": 49.99
+        },
+        {
+          "size": "36",
+          "quantity": 8,
+          "price": 54.99
+        }
+      ]
+    },
+    {
+      "code": "HOODIE003",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 15,
+          "price": 39.99
+        },
+        {
+          "size": "M",
+          "quantity": 25,
+          "price": 39.99
+        },
+        {
+          "size": "L",
+          "quantity": 20,
+          "price": 39.99
+        },
+        {
+          "size": "XL",
+          "quantity": 10,
+          "price": 44.99
+        }
+      ]
+    },
+    {
+      "code": "SNEAKERS004",
+      "sizes": [
+        {
+          "size": "7",
+          "quantity": 8,
+          "price": 89.99
+        },
+        {
+          "size": "8",
+          "quantity": 12,
+          "price": 89.99
+        },
+        {
+          "size": "9",
+          "quantity": 15,
+          "price": 89.99
+        },
+        {
+          "size": "10",
+          "quantity": 10,
+          "price": 89.99
+        },
+        {
+          "size": "11",
+          "quantity": 5,
+          "price": 94.99
+        }
+      ]
+    },
+    {
+      "code": "SOCKS005",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 30,
+          "price": 9.99
+        },
+        {
+          "size": "M",
+          "quantity": 40,
+          "price": 9.99
+        },
+        {
+          "size": "L",
+          "quantity": 25,
+          "price": 9.99
+        }
+      ]
+    },
+    {
+      "code": "TRKPNT001",
+      "sizes": [
+        {
+          "size": "M",
+          "quantity": 43,
+          "price": 19.99
+        }
+      ]
+    },
+    {
+      "code": "JEANS001",
+      "sizes": [
+        {
+          "size": "32",
+          "quantity": 10,
+          "price": 45.99
+        }
+      ]
+    }
+  ]
+}
